@@ -6,6 +6,9 @@
 # python3 main.py
 ```
 
+- Result
+
+```
 player 1 expected value: -0.05666979368427769
 player 2 expected value: 0.05666979368427769
 
@@ -24,3 +27,4 @@ K rrb  ['0.00', '1.00']
 K rrc  ['0.00', '1.00']
 Q rrb  ['0.66', '0.34']
 Q rrc  ['1.00', '0.00']
+```
